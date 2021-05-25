@@ -1,0 +1,206 @@
+D:\User\Documents\FILES FOR 2021\SHINKANSENPBL\SHINKANSENAPP\SHINKANSENAPP\bin\Debug\SHINKANSENAPP.exe.config
+D:\User\Documents\FILES FOR 2021\SHINKANSENPBL\SHINKANSENAPP\SHINKANSENAPP\bin\Debug\SHINKANSENAPP.exe
+D:\User\Documents\FILES FOR 2021\SHINKANSENPBL\SHINKANSENAPP\SHINKANSENAPP\bin\Debug\SHINKANSENAPP.pdb
+D:\User\Documents\FILES FOR 2021\SHINKANSENPBL\SHINKANSENAPP\SHINKANSENAPP\obj\Debug\SHINKANSENAPP.Dashboard.resources
+D:\User\Documents\FILES FOR 2021\SHINKANSENPBL\SHINKANSENAPP\SHINKANSENAPP\obj\Debug\SHINKANSENAPP.Properties.Resources.resources
+D:\User\Documents\FILES FOR 2021\SHINKANSENPBL\SHINKANSENAPP\SHINKANSENAPP\obj\Debug\SHINKANSENAPP.csproj.GenerateResource.cache
+D:\User\Documents\FILES FOR 2021\SHINKANSENPBL\SHINKANSENAPP\SHINKANSENAPP\obj\Debug\SHINKANSENAPP.csproj.CoreCompileInputs.cache
+D:\User\Documents\FILES FOR 2021\SHINKANSENPBL\SHINKANSENAPP\SHINKANSENAPP\obj\Debug\SHINKANSENAPP.exe
+D:\User\Documents\FILES FOR 2021\SHINKANSENPBL\SHINKANSENAPP\SHINKANSENAPP\obj\Debug\SHINKANSENAPP.pdb
+D:\User\Documents\FILES FOR 2021\SHINKANSENPBL\SHINKANSENAPP\SHINKANSENAPP\obj\Debug\SHINKANSENAPP.About.resources
+D:\User\Documents\FILES FOR 2021\SHINKANSENPBL\SHINKANSENAPP\SHINKANSENAPP\obj\Debug\SHINKANSENAPP.Homescreen.resources
+D:\User\Documents\FILES FOR 2021\SHINKANSENPBL\SHINKANSENAPP\SHINKANSENAPP\obj\Debug\SHINKANSENAPP.Inquiry.resources
+D:\User\Documents\FILES FOR 2021\SHINKANSENPBL\SHINKANSENAPP\SHINKANSENAPP\obj\Debug\SHINKANSENAPP.Reports.resources
+D:\User\Documents\FILES FOR 2021\SHINKANSENPBL\SHINKANSENAPP\SHINKANSENAPP\obj\Debug\SHINKANSENAPP.Infographics.resources
+D:\User\Documents\FILES FOR 2021\SHINKANSENPBL\SHINKANSENAPP\SHINKANSENAPP\obj\Debug\SHINKANSENAPP.csprojAssemblyReference.cache
+D:\User\Documents\FILES FOR 2021\SHINKANSENPBL\PBLOFFICIAL\SHINKANSENAPP\SHINKANSENAPP\bin\Debug\SHINKANSENAPP.exe.config
+D:\User\Documents\FILES FOR 2021\SHINKANSENPBL\PBLOFFICIAL\SHINKANSENAPP\SHINKANSENAPP\bin\Debug\SHINKANSENAPP.exe
+D:\User\Documents\FILES FOR 2021\SHINKANSENPBL\PBLOFFICIAL\SHINKANSENAPP\SHINKANSENAPP\bin\Debug\SHINKANSENAPP.pdb
+D:\User\Documents\FILES FOR 2021\SHINKANSENPBL\PBLOFFICIAL\SHINKANSENAPP\SHINKANSENAPP\obj\Debug\SHINKANSENAPP.About.resources
+D:\User\Documents\FILES FOR 2021\SHINKANSENPBL\PBLOFFICIAL\SHINKANSENAPP\SHINKANSENAPP\obj\Debug\SHINKANSENAPP.Dashboard.resources
+D:\User\Documents\FILES FOR 2021\SHINKANSENPBL\PBLOFFICIAL\SHINKANSENAPP\SHINKANSENAPP\obj\Debug\SHINKANSENAPP.Homescreen.resources
+D:\User\Documents\FILES FOR 2021\SHINKANSENPBL\PBLOFFICIAL\SHINKANSENAPP\SHINKANSENAPP\obj\Debug\SHINKANSENAPP.Infographics.resources
+D:\User\Documents\FILES FOR 2021\SHINKANSENPBL\PBLOFFICIAL\SHINKANSENAPP\SHINKANSENAPP\obj\Debug\SHINKANSENAPP.Inquiry.resources
+D:\User\Documents\FILES FOR 2021\SHINKANSENPBL\PBLOFFICIAL\SHINKANSENAPP\SHINKANSENAPP\obj\Debug\SHINKANSENAPP.Properties.Resources.resources
+D:\User\Documents\FILES FOR 2021\SHINKANSENPBL\PBLOFFICIAL\SHINKANSENAPP\SHINKANSENAPP\obj\Debug\SHINKANSENAPP.Reports.resources
+D:\User\Documents\FILES FOR 2021\SHINKANSENPBL\PBLOFFICIAL\SHINKANSENAPP\SHINKANSENAPP\obj\Debug\SHINKANSENAPP.csproj.GenerateResource.cache
+D:\User\Documents\FILES FOR 2021\SHINKANSENPBL\PBLOFFICIAL\SHINKANSENAPP\SHINKANSENAPP\obj\Debug\SHINKANSENAPP.csproj.CoreCompileInputs.cache
+D:\User\Documents\FILES FOR 2021\SHINKANSENPBL\PBLOFFICIAL\SHINKANSENAPP\SHINKANSENAPP\obj\Debug\SHINKANSENAPP.exe
+D:\User\Documents\FILES FOR 2021\SHINKANSENPBL\PBLOFFICIAL\SHINKANSENAPP\SHINKANSENAPP\obj\Debug\SHINKANSENAPP.pdb
+C:\Users\Nicole Pecho\Documents\GitHub\PBLOFFICIAL\SHINKANSENAPP\SHINKANSENAPP\bin\Debug\SHINKANSENAPP.exe.config
+C:\Users\Nicole Pecho\Documents\GitHub\PBLOFFICIAL\SHINKANSENAPP\SHINKANSENAPP\bin\Debug\SHINKANSENAPP.exe
+C:\Users\Nicole Pecho\Documents\GitHub\PBLOFFICIAL\SHINKANSENAPP\SHINKANSENAPP\bin\Debug\SHINKANSENAPP.pdb
+C:\Users\Nicole Pecho\Documents\GitHub\PBLOFFICIAL\SHINKANSENAPP\SHINKANSENAPP\obj\Debug\SHINKANSENAPP.csprojAssemblyReference.cache
+C:\Users\Nicole Pecho\Documents\GitHub\PBLOFFICIAL\SHINKANSENAPP\SHINKANSENAPP\obj\Debug\SHINKANSENAPP.About.resources
+C:\Users\Nicole Pecho\Documents\GitHub\PBLOFFICIAL\SHINKANSENAPP\SHINKANSENAPP\obj\Debug\SHINKANSENAPP.Dashboard.resources
+C:\Users\Nicole Pecho\Documents\GitHub\PBLOFFICIAL\SHINKANSENAPP\SHINKANSENAPP\obj\Debug\SHINKANSENAPP.Homescreen.resources
+C:\Users\Nicole Pecho\Documents\GitHub\PBLOFFICIAL\SHINKANSENAPP\SHINKANSENAPP\obj\Debug\SHINKANSENAPP.Infographics.resources
+C:\Users\Nicole Pecho\Documents\GitHub\PBLOFFICIAL\SHINKANSENAPP\SHINKANSENAPP\obj\Debug\SHINKANSENAPP.Inquiry.resources
+C:\Users\Nicole Pecho\Documents\GitHub\PBLOFFICIAL\SHINKANSENAPP\SHINKANSENAPP\obj\Debug\SHINKANSENAPP.Properties.Resources.resources
+C:\Users\Nicole Pecho\Documents\GitHub\PBLOFFICIAL\SHINKANSENAPP\SHINKANSENAPP\obj\Debug\SHINKANSENAPP.Reports.resources
+C:\Users\Nicole Pecho\Documents\GitHub\PBLOFFICIAL\SHINKANSENAPP\SHINKANSENAPP\obj\Debug\SHINKANSENAPP.csproj.GenerateResource.cache
+C:\Users\Nicole Pecho\Documents\GitHub\PBLOFFICIAL\SHINKANSENAPP\SHINKANSENAPP\obj\Debug\SHINKANSENAPP.csproj.CoreCompileInputs.cache
+C:\Users\Nicole Pecho\Documents\GitHub\PBLOFFICIAL\SHINKANSENAPP\SHINKANSENAPP\obj\Debug\SHINKANSENAPP.exe
+C:\Users\Nicole Pecho\Documents\GitHub\PBLOFFICIAL\SHINKANSENAPP\SHINKANSENAPP\obj\Debug\SHINKANSENAPP.pdb
+D:\User\Documents\FILES FOR 2021\SHINKANSENPBL\PBLOFFICIAL\SHINKANSENAPP\SHINKANSENAPP\bin\Debug\Bunifu_UI_v1.5.3.dll
+D:\User\Documents\FILES FOR 2021\SHINKANSENPBL\PBLOFFICIAL\SHINKANSENAPP\SHINKANSENAPP\obj\Debug\SHINKANSENAPP.csproj.CopyComplete
+D:\User\Documents\FILES FOR 2021\SHINKANSENPBL\PBLOFFICIAL\SHINKANSENAPP\SHINKANSENAPP\obj\Debug\SHINKANSENAPP.Splash_Screen.resources
+C:\Users\User\Desktop\PBLOFFICIAL\SHINKANSENAPP\SHINKANSENAPP\bin\Debug\SHINKANSENAPP.exe.config
+C:\Users\User\Desktop\PBLOFFICIAL\SHINKANSENAPP\SHINKANSENAPP\bin\Debug\SHINKANSENAPP.exe
+C:\Users\User\Desktop\PBLOFFICIAL\SHINKANSENAPP\SHINKANSENAPP\bin\Debug\SHINKANSENAPP.pdb
+C:\Users\User\Desktop\PBLOFFICIAL\SHINKANSENAPP\SHINKANSENAPP\obj\Debug\SHINKANSENAPP.csprojAssemblyReference.cache
+C:\Users\User\Desktop\PBLOFFICIAL\SHINKANSENAPP\SHINKANSENAPP\obj\Debug\SHINKANSENAPP.About.resources
+C:\Users\User\Desktop\PBLOFFICIAL\SHINKANSENAPP\SHINKANSENAPP\obj\Debug\SHINKANSENAPP.Dashboard.resources
+C:\Users\User\Desktop\PBLOFFICIAL\SHINKANSENAPP\SHINKANSENAPP\obj\Debug\SHINKANSENAPP.Homescreen.resources
+C:\Users\User\Desktop\PBLOFFICIAL\SHINKANSENAPP\SHINKANSENAPP\obj\Debug\SHINKANSENAPP.Infographics.resources
+C:\Users\User\Desktop\PBLOFFICIAL\SHINKANSENAPP\SHINKANSENAPP\obj\Debug\SHINKANSENAPP.Inquiry.resources
+C:\Users\User\Desktop\PBLOFFICIAL\SHINKANSENAPP\SHINKANSENAPP\obj\Debug\SHINKANSENAPP.Properties.Resources.resources
+C:\Users\User\Desktop\PBLOFFICIAL\SHINKANSENAPP\SHINKANSENAPP\obj\Debug\SHINKANSENAPP.Reports.resources
+C:\Users\User\Desktop\PBLOFFICIAL\SHINKANSENAPP\SHINKANSENAPP\obj\Debug\SHINKANSENAPP.Splash_Screen.resources
+C:\Users\User\Desktop\PBLOFFICIAL\SHINKANSENAPP\SHINKANSENAPP\obj\Debug\SHINKANSENAPP.csproj.GenerateResource.cache
+C:\Users\User\Desktop\PBLOFFICIAL\SHINKANSENAPP\SHINKANSENAPP\obj\Debug\SHINKANSENAPP.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\PBLOFFICIAL\SHINKANSENAPP\SHINKANSENAPP\obj\Debug\SHINKANSENAPP.csproj.CopyComplete
+C:\Users\User\Desktop\PBLOFFICIAL\SHINKANSENAPP\SHINKANSENAPP\obj\Debug\SHINKANSENAPP.exe
+C:\Users\User\Desktop\PBLOFFICIAL\SHINKANSENAPP\SHINKANSENAPP\obj\Debug\SHINKANSENAPP.pdb
+C:\Users\User\Desktop\PBLOFFICIAL\SHINKANSENAPP\SHINKANSENAPP\obj\Debug\SHINKANSENAPP.Account_Verification.resources
+D:\User\Documents\FILES FOR 2021\SHINKANSENPBL\PBLOFFICIAL\SHINKANSENAPP\SHINKANSENAPP\obj\Debug\SHINKANSENAPP.Account_Verification.resources
+C:\Users\Shane\PBLOFFICIAL\SHINKANSENAPP\SHINKANSENAPP\bin\Debug\SHINKANSENAPP.exe.config
+C:\Users\Shane\PBLOFFICIAL\SHINKANSENAPP\SHINKANSENAPP\bin\Debug\SHINKANSENAPP.exe
+C:\Users\Shane\PBLOFFICIAL\SHINKANSENAPP\SHINKANSENAPP\bin\Debug\SHINKANSENAPP.pdb
+C:\Users\Shane\PBLOFFICIAL\SHINKANSENAPP\SHINKANSENAPP\obj\Debug\SHINKANSENAPP.csprojAssemblyReference.cache
+C:\Users\Shane\PBLOFFICIAL\SHINKANSENAPP\SHINKANSENAPP\obj\Debug\SHINKANSENAPP.About.resources
+C:\Users\Shane\PBLOFFICIAL\SHINKANSENAPP\SHINKANSENAPP\obj\Debug\SHINKANSENAPP.Account_Verification.resources
+C:\Users\Shane\PBLOFFICIAL\SHINKANSENAPP\SHINKANSENAPP\obj\Debug\SHINKANSENAPP.Dashboard.resources
+C:\Users\Shane\PBLOFFICIAL\SHINKANSENAPP\SHINKANSENAPP\obj\Debug\SHINKANSENAPP.Homescreen.resources
+C:\Users\Shane\PBLOFFICIAL\SHINKANSENAPP\SHINKANSENAPP\obj\Debug\SHINKANSENAPP.Infographics.resources
+C:\Users\Shane\PBLOFFICIAL\SHINKANSENAPP\SHINKANSENAPP\obj\Debug\SHINKANSENAPP.Inquiry.resources
+C:\Users\Shane\PBLOFFICIAL\SHINKANSENAPP\SHINKANSENAPP\obj\Debug\SHINKANSENAPP.Properties.Resources.resources
+C:\Users\Shane\PBLOFFICIAL\SHINKANSENAPP\SHINKANSENAPP\obj\Debug\SHINKANSENAPP.Reports.resources
+C:\Users\Shane\PBLOFFICIAL\SHINKANSENAPP\SHINKANSENAPP\obj\Debug\SHINKANSENAPP.Splash_Screen.resources
+C:\Users\Shane\PBLOFFICIAL\SHINKANSENAPP\SHINKANSENAPP\obj\Debug\SHINKANSENAPP.csproj.GenerateResource.cache
+C:\Users\Shane\PBLOFFICIAL\SHINKANSENAPP\SHINKANSENAPP\obj\Debug\SHINKANSENAPP.csproj.CoreCompileInputs.cache
+C:\Users\Shane\PBLOFFICIAL\SHINKANSENAPP\SHINKANSENAPP\obj\Debug\SHINKANSENAPP.csproj.CopyComplete
+C:\Users\Shane\PBLOFFICIAL\SHINKANSENAPP\SHINKANSENAPP\obj\Debug\SHINKANSENAPP.exe
+C:\Users\Shane\PBLOFFICIAL\SHINKANSENAPP\SHINKANSENAPP\obj\Debug\SHINKANSENAPP.pdb
+C:\Users\Razeac\Documents\School\IACAD\G 11\Sem 2\Data Structures\PBL\PBLOFFICIAL\SHINKANSENAPP\SHINKANSENAPP\bin\Debug\SHINKANSENAPP.exe.config
+C:\Users\Razeac\Documents\School\IACAD\G 11\Sem 2\Data Structures\PBL\PBLOFFICIAL\SHINKANSENAPP\SHINKANSENAPP\bin\Debug\SHINKANSENAPP.exe
+C:\Users\Razeac\Documents\School\IACAD\G 11\Sem 2\Data Structures\PBL\PBLOFFICIAL\SHINKANSENAPP\SHINKANSENAPP\bin\Debug\SHINKANSENAPP.pdb
+C:\Users\Razeac\Documents\School\IACAD\G 11\Sem 2\Data Structures\PBL\PBLOFFICIAL\SHINKANSENAPP\SHINKANSENAPP\obj\Debug\SHINKANSENAPP.About.resources
+C:\Users\Razeac\Documents\School\IACAD\G 11\Sem 2\Data Structures\PBL\PBLOFFICIAL\SHINKANSENAPP\SHINKANSENAPP\obj\Debug\SHINKANSENAPP.Account_Verification.resources
+C:\Users\Razeac\Documents\School\IACAD\G 11\Sem 2\Data Structures\PBL\PBLOFFICIAL\SHINKANSENAPP\SHINKANSENAPP\obj\Debug\SHINKANSENAPP.Dashboard.resources
+C:\Users\Razeac\Documents\School\IACAD\G 11\Sem 2\Data Structures\PBL\PBLOFFICIAL\SHINKANSENAPP\SHINKANSENAPP\obj\Debug\SHINKANSENAPP.Homescreen.resources
+C:\Users\Razeac\Documents\School\IACAD\G 11\Sem 2\Data Structures\PBL\PBLOFFICIAL\SHINKANSENAPP\SHINKANSENAPP\obj\Debug\SHINKANSENAPP.Infographics.resources
+C:\Users\Razeac\Documents\School\IACAD\G 11\Sem 2\Data Structures\PBL\PBLOFFICIAL\SHINKANSENAPP\SHINKANSENAPP\obj\Debug\SHINKANSENAPP.Inquiry.resources
+C:\Users\Razeac\Documents\School\IACAD\G 11\Sem 2\Data Structures\PBL\PBLOFFICIAL\SHINKANSENAPP\SHINKANSENAPP\obj\Debug\SHINKANSENAPP.Properties.Resources.resources
+C:\Users\Razeac\Documents\School\IACAD\G 11\Sem 2\Data Structures\PBL\PBLOFFICIAL\SHINKANSENAPP\SHINKANSENAPP\obj\Debug\SHINKANSENAPP.Reports.resources
+C:\Users\Razeac\Documents\School\IACAD\G 11\Sem 2\Data Structures\PBL\PBLOFFICIAL\SHINKANSENAPP\SHINKANSENAPP\obj\Debug\SHINKANSENAPP.Splash_Screen.resources
+C:\Users\Razeac\Documents\School\IACAD\G 11\Sem 2\Data Structures\PBL\PBLOFFICIAL\SHINKANSENAPP\SHINKANSENAPP\obj\Debug\SHINKANSENAPP.csproj.GenerateResource.cache
+C:\Users\Razeac\Documents\School\IACAD\G 11\Sem 2\Data Structures\PBL\PBLOFFICIAL\SHINKANSENAPP\SHINKANSENAPP\obj\Debug\SHINKANSENAPP.csproj.CoreCompileInputs.cache
+C:\Users\Razeac\Documents\School\IACAD\G 11\Sem 2\Data Structures\PBL\PBLOFFICIAL\SHINKANSENAPP\SHINKANSENAPP\obj\Debug\SHINKANSENAPP.csproj.CopyComplete
+C:\Users\Razeac\Documents\School\IACAD\G 11\Sem 2\Data Structures\PBL\PBLOFFICIAL\SHINKANSENAPP\SHINKANSENAPP\obj\Debug\SHINKANSENAPP.exe
+C:\Users\Razeac\Documents\School\IACAD\G 11\Sem 2\Data Structures\PBL\PBLOFFICIAL\SHINKANSENAPP\SHINKANSENAPP\obj\Debug\SHINKANSENAPP.pdb
+D:\User\Documents\FILES FOR 2021\SHINKANSENPBL\PBLOFFICIAL\SHINKANSENAPP\SHINKANSENAPP\obj\Debug\SHINKANSENAPP.GenInfo.resources
+D:\User\Documents\FILES FOR 2021\SHINKANSENPBL\PBLOFFICIAL\SHINKANSENAPP\SHINKANSENAPP\obj\Debug\SHINKANSENAPP.Precautions.resources
+D:\User\Documents\FILES FOR 2021\SHINKANSENPBL\PBLOFFICIAL\SHINKANSENAPP\SHINKANSENAPP\obj\Debug\SHINKANSENAPP.Symptoms.resources
+C:\Users\Shane\PBLOFFICIAL\SHINKANSENAPP\SHINKANSENAPP\obj\Debug\SHINKANSENAPP.GenInfo.resources
+C:\Users\Shane\PBLOFFICIAL\SHINKANSENAPP\SHINKANSENAPP\obj\Debug\SHINKANSENAPP.Precautions.resources
+C:\Users\Shane\PBLOFFICIAL\SHINKANSENAPP\SHINKANSENAPP\obj\Debug\SHINKANSENAPP.Symptoms.resources
+C:\Users\Nicole Pecho\Documents\GitHub\PBLOFFICIAL\SHINKANSENAPP\SHINKANSENAPP\obj\Debug\SHINKANSENAPP.Account_Verification.resources
+C:\Users\Nicole Pecho\Documents\GitHub\PBLOFFICIAL\SHINKANSENAPP\SHINKANSENAPP\obj\Debug\SHINKANSENAPP.GenInfo.resources
+C:\Users\Nicole Pecho\Documents\GitHub\PBLOFFICIAL\SHINKANSENAPP\SHINKANSENAPP\obj\Debug\SHINKANSENAPP.Precautions.resources
+C:\Users\Nicole Pecho\Documents\GitHub\PBLOFFICIAL\SHINKANSENAPP\SHINKANSENAPP\obj\Debug\SHINKANSENAPP.Splash_Screen.resources
+C:\Users\Nicole Pecho\Documents\GitHub\PBLOFFICIAL\SHINKANSENAPP\SHINKANSENAPP\obj\Debug\SHINKANSENAPP.Symptoms.resources
+C:\Users\Nicole Pecho\Documents\GitHub\PBLOFFICIAL\SHINKANSENAPP\SHINKANSENAPP\obj\Debug\SHINKANSENAPP.csproj.CopyComplete
+C:\Users\Razeac\Documents\School\IACAD\G 11\Sem 2\Data Structures\PBL\PBLOFFICIAL\SHINKANSENAPP\SHINKANSENAPP\obj\Debug\SHINKANSENAPP.GenInfo.resources
+C:\Users\Razeac\Documents\School\IACAD\G 11\Sem 2\Data Structures\PBL\PBLOFFICIAL\SHINKANSENAPP\SHINKANSENAPP\obj\Debug\SHINKANSENAPP.Precautions.resources
+C:\Users\Razeac\Documents\School\IACAD\G 11\Sem 2\Data Structures\PBL\PBLOFFICIAL\SHINKANSENAPP\SHINKANSENAPP\obj\Debug\SHINKANSENAPP.Symptoms.resources
+C:\Users\Razeac\Documents\School\IACAD\G 11\Sem 2\Data Structures\PBL\PBLOFFICIAL\SHINKANSENAPP\SHINKANSENAPP\obj\Debug\SHINKANSENAPP.csprojAssemblyReference.cache
+D:\User\Documents\FILES FOR 2021\SHINKANSENPBL\PBLOFFICIAL\SHINKANSENAPP\SHINKANSENAPP\obj\Debug\SHINKANSENAPP.csprojAssemblyReference.cache
+D:\User\Documents\FILES FOR 2021\SHINKANSENPBL\forpblvid\SHINKANSENAPP\SHINKANSENAPP\bin\Debug\SHINKANSENAPP.exe.config
+D:\User\Documents\FILES FOR 2021\SHINKANSENPBL\forpblvid\SHINKANSENAPP\SHINKANSENAPP\bin\Debug\SHINKANSENAPP.exe
+D:\User\Documents\FILES FOR 2021\SHINKANSENPBL\forpblvid\SHINKANSENAPP\SHINKANSENAPP\bin\Debug\SHINKANSENAPP.pdb
+D:\User\Documents\FILES FOR 2021\SHINKANSENPBL\forpblvid\SHINKANSENAPP\SHINKANSENAPP\bin\Debug\Bunifu_UI_v1.5.3.dll
+D:\User\Documents\FILES FOR 2021\SHINKANSENPBL\forpblvid\SHINKANSENAPP\SHINKANSENAPP\obj\Debug\SHINKANSENAPP.About.resources
+D:\User\Documents\FILES FOR 2021\SHINKANSENPBL\forpblvid\SHINKANSENAPP\SHINKANSENAPP\obj\Debug\SHINKANSENAPP.Account_Verification.resources
+D:\User\Documents\FILES FOR 2021\SHINKANSENPBL\forpblvid\SHINKANSENAPP\SHINKANSENAPP\obj\Debug\SHINKANSENAPP.Dashboard.resources
+D:\User\Documents\FILES FOR 2021\SHINKANSENPBL\forpblvid\SHINKANSENAPP\SHINKANSENAPP\obj\Debug\SHINKANSENAPP.GenInfo.resources
+D:\User\Documents\FILES FOR 2021\SHINKANSENPBL\forpblvid\SHINKANSENAPP\SHINKANSENAPP\obj\Debug\SHINKANSENAPP.Homescreen.resources
+D:\User\Documents\FILES FOR 2021\SHINKANSENPBL\forpblvid\SHINKANSENAPP\SHINKANSENAPP\obj\Debug\SHINKANSENAPP.Infographics.resources
+D:\User\Documents\FILES FOR 2021\SHINKANSENPBL\forpblvid\SHINKANSENAPP\SHINKANSENAPP\obj\Debug\SHINKANSENAPP.Inquiry.resources
+D:\User\Documents\FILES FOR 2021\SHINKANSENPBL\forpblvid\SHINKANSENAPP\SHINKANSENAPP\obj\Debug\SHINKANSENAPP.Precautions.resources
+D:\User\Documents\FILES FOR 2021\SHINKANSENPBL\forpblvid\SHINKANSENAPP\SHINKANSENAPP\obj\Debug\SHINKANSENAPP.Properties.Resources.resources
+D:\User\Documents\FILES FOR 2021\SHINKANSENPBL\forpblvid\SHINKANSENAPP\SHINKANSENAPP\obj\Debug\SHINKANSENAPP.Reports.resources
+D:\User\Documents\FILES FOR 2021\SHINKANSENPBL\forpblvid\SHINKANSENAPP\SHINKANSENAPP\obj\Debug\SHINKANSENAPP.Signing.resources
+D:\User\Documents\FILES FOR 2021\SHINKANSENPBL\forpblvid\SHINKANSENAPP\SHINKANSENAPP\obj\Debug\SHINKANSENAPP.Splash_Screen.resources
+D:\User\Documents\FILES FOR 2021\SHINKANSENPBL\forpblvid\SHINKANSENAPP\SHINKANSENAPP\obj\Debug\SHINKANSENAPP.Symptoms.resources
+D:\User\Documents\FILES FOR 2021\SHINKANSENPBL\forpblvid\SHINKANSENAPP\SHINKANSENAPP\obj\Debug\SHINKANSENAPP.csproj.GenerateResource.cache
+D:\User\Documents\FILES FOR 2021\SHINKANSENPBL\forpblvid\SHINKANSENAPP\SHINKANSENAPP\obj\Debug\SHINKANSENAPP.csproj.CoreCompileInputs.cache
+D:\User\Documents\FILES FOR 2021\SHINKANSENPBL\forpblvid\SHINKANSENAPP\SHINKANSENAPP\obj\Debug\SHINKANSENAPP.csproj.CopyComplete
+D:\User\Documents\FILES FOR 2021\SHINKANSENPBL\forpblvid\SHINKANSENAPP\SHINKANSENAPP\obj\Debug\SHINKANSENAPP.exe
+D:\User\Documents\FILES FOR 2021\SHINKANSENPBL\forpblvid\SHINKANSENAPP\SHINKANSENAPP\obj\Debug\SHINKANSENAPP.pdb
+C:\Users\Razeac\Documents\School\IACAD\G 11\Sem 2\Data Structures\PBL\forpblvid\SHINKANSENAPP\SHINKANSENAPP\bin\Debug\SHINKANSENAPP.exe.config
+C:\Users\Razeac\Documents\School\IACAD\G 11\Sem 2\Data Structures\PBL\forpblvid\SHINKANSENAPP\SHINKANSENAPP\bin\Debug\SHINKANSENAPP.exe
+C:\Users\Razeac\Documents\School\IACAD\G 11\Sem 2\Data Structures\PBL\forpblvid\SHINKANSENAPP\SHINKANSENAPP\bin\Debug\SHINKANSENAPP.pdb
+C:\Users\Razeac\Documents\School\IACAD\G 11\Sem 2\Data Structures\PBL\forpblvid\SHINKANSENAPP\SHINKANSENAPP\obj\Debug\SHINKANSENAPP.csprojAssemblyReference.cache
+C:\Users\Razeac\Documents\School\IACAD\G 11\Sem 2\Data Structures\PBL\forpblvid\SHINKANSENAPP\SHINKANSENAPP\obj\Debug\SHINKANSENAPP.About.resources
+C:\Users\Razeac\Documents\School\IACAD\G 11\Sem 2\Data Structures\PBL\forpblvid\SHINKANSENAPP\SHINKANSENAPP\obj\Debug\SHINKANSENAPP.Account_Verification.resources
+C:\Users\Razeac\Documents\School\IACAD\G 11\Sem 2\Data Structures\PBL\forpblvid\SHINKANSENAPP\SHINKANSENAPP\obj\Debug\SHINKANSENAPP.Dashboard.resources
+C:\Users\Razeac\Documents\School\IACAD\G 11\Sem 2\Data Structures\PBL\forpblvid\SHINKANSENAPP\SHINKANSENAPP\obj\Debug\SHINKANSENAPP.GenInfo.resources
+C:\Users\Razeac\Documents\School\IACAD\G 11\Sem 2\Data Structures\PBL\forpblvid\SHINKANSENAPP\SHINKANSENAPP\obj\Debug\SHINKANSENAPP.Homescreen.resources
+C:\Users\Razeac\Documents\School\IACAD\G 11\Sem 2\Data Structures\PBL\forpblvid\SHINKANSENAPP\SHINKANSENAPP\obj\Debug\SHINKANSENAPP.Infographics.resources
+C:\Users\Razeac\Documents\School\IACAD\G 11\Sem 2\Data Structures\PBL\forpblvid\SHINKANSENAPP\SHINKANSENAPP\obj\Debug\SHINKANSENAPP.Inquiry.resources
+C:\Users\Razeac\Documents\School\IACAD\G 11\Sem 2\Data Structures\PBL\forpblvid\SHINKANSENAPP\SHINKANSENAPP\obj\Debug\SHINKANSENAPP.Precautions.resources
+C:\Users\Razeac\Documents\School\IACAD\G 11\Sem 2\Data Structures\PBL\forpblvid\SHINKANSENAPP\SHINKANSENAPP\obj\Debug\SHINKANSENAPP.Properties.Resources.resources
+C:\Users\Razeac\Documents\School\IACAD\G 11\Sem 2\Data Structures\PBL\forpblvid\SHINKANSENAPP\SHINKANSENAPP\obj\Debug\SHINKANSENAPP.Reports.resources
+C:\Users\Razeac\Documents\School\IACAD\G 11\Sem 2\Data Structures\PBL\forpblvid\SHINKANSENAPP\SHINKANSENAPP\obj\Debug\SHINKANSENAPP.Signing.resources
+C:\Users\Razeac\Documents\School\IACAD\G 11\Sem 2\Data Structures\PBL\forpblvid\SHINKANSENAPP\SHINKANSENAPP\obj\Debug\SHINKANSENAPP.Splash_Screen.resources
+C:\Users\Razeac\Documents\School\IACAD\G 11\Sem 2\Data Structures\PBL\forpblvid\SHINKANSENAPP\SHINKANSENAPP\obj\Debug\SHINKANSENAPP.Symptoms.resources
+C:\Users\Razeac\Documents\School\IACAD\G 11\Sem 2\Data Structures\PBL\forpblvid\SHINKANSENAPP\SHINKANSENAPP\obj\Debug\SHINKANSENAPP.csproj.GenerateResource.cache
+C:\Users\Razeac\Documents\School\IACAD\G 11\Sem 2\Data Structures\PBL\forpblvid\SHINKANSENAPP\SHINKANSENAPP\obj\Debug\SHINKANSENAPP.csproj.CoreCompileInputs.cache
+C:\Users\Razeac\Documents\School\IACAD\G 11\Sem 2\Data Structures\PBL\forpblvid\SHINKANSENAPP\SHINKANSENAPP\obj\Debug\SHINKANSENAPP.csproj.CopyComplete
+C:\Users\Razeac\Documents\School\IACAD\G 11\Sem 2\Data Structures\PBL\forpblvid\SHINKANSENAPP\SHINKANSENAPP\obj\Debug\SHINKANSENAPP.exe
+C:\Users\Razeac\Documents\School\IACAD\G 11\Sem 2\Data Structures\PBL\forpblvid\SHINKANSENAPP\SHINKANSENAPP\obj\Debug\SHINKANSENAPP.pdb
+C:\Users\Nicole Pecho\Documents\GitHub\forpblvid\SHINKANSENAPP\SHINKANSENAPP\bin\Debug\SHINKANSENAPP.exe.config
+C:\Users\Nicole Pecho\Documents\GitHub\forpblvid\SHINKANSENAPP\SHINKANSENAPP\bin\Debug\SHINKANSENAPP.exe
+C:\Users\Nicole Pecho\Documents\GitHub\forpblvid\SHINKANSENAPP\SHINKANSENAPP\bin\Debug\SHINKANSENAPP.pdb
+C:\Users\Nicole Pecho\Documents\GitHub\forpblvid\SHINKANSENAPP\SHINKANSENAPP\obj\Debug\SHINKANSENAPP.csprojAssemblyReference.cache
+C:\Users\Nicole Pecho\Documents\GitHub\forpblvid\SHINKANSENAPP\SHINKANSENAPP\obj\Debug\SHINKANSENAPP.About.resources
+C:\Users\Nicole Pecho\Documents\GitHub\forpblvid\SHINKANSENAPP\SHINKANSENAPP\obj\Debug\SHINKANSENAPP.Account_Verification.resources
+C:\Users\Nicole Pecho\Documents\GitHub\forpblvid\SHINKANSENAPP\SHINKANSENAPP\obj\Debug\SHINKANSENAPP.Dashboard.resources
+C:\Users\Nicole Pecho\Documents\GitHub\forpblvid\SHINKANSENAPP\SHINKANSENAPP\obj\Debug\SHINKANSENAPP.GenInfo.resources
+C:\Users\Nicole Pecho\Documents\GitHub\forpblvid\SHINKANSENAPP\SHINKANSENAPP\obj\Debug\SHINKANSENAPP.Homescreen.resources
+C:\Users\Nicole Pecho\Documents\GitHub\forpblvid\SHINKANSENAPP\SHINKANSENAPP\obj\Debug\SHINKANSENAPP.Infographics.resources
+C:\Users\Nicole Pecho\Documents\GitHub\forpblvid\SHINKANSENAPP\SHINKANSENAPP\obj\Debug\SHINKANSENAPP.Inquiry.resources
+C:\Users\Nicole Pecho\Documents\GitHub\forpblvid\SHINKANSENAPP\SHINKANSENAPP\obj\Debug\SHINKANSENAPP.Precautions.resources
+C:\Users\Nicole Pecho\Documents\GitHub\forpblvid\SHINKANSENAPP\SHINKANSENAPP\obj\Debug\SHINKANSENAPP.Properties.Resources.resources
+C:\Users\Nicole Pecho\Documents\GitHub\forpblvid\SHINKANSENAPP\SHINKANSENAPP\obj\Debug\SHINKANSENAPP.Reports.resources
+C:\Users\Nicole Pecho\Documents\GitHub\forpblvid\SHINKANSENAPP\SHINKANSENAPP\obj\Debug\SHINKANSENAPP.Signing.resources
+C:\Users\Nicole Pecho\Documents\GitHub\forpblvid\SHINKANSENAPP\SHINKANSENAPP\obj\Debug\SHINKANSENAPP.Splash_Screen.resources
+C:\Users\Nicole Pecho\Documents\GitHub\forpblvid\SHINKANSENAPP\SHINKANSENAPP\obj\Debug\SHINKANSENAPP.Symptoms.resources
+C:\Users\Nicole Pecho\Documents\GitHub\forpblvid\SHINKANSENAPP\SHINKANSENAPP\obj\Debug\SHINKANSENAPP.csproj.GenerateResource.cache
+C:\Users\Nicole Pecho\Documents\GitHub\forpblvid\SHINKANSENAPP\SHINKANSENAPP\obj\Debug\SHINKANSENAPP.csproj.CoreCompileInputs.cache
+C:\Users\Nicole Pecho\Documents\GitHub\forpblvid\SHINKANSENAPP\SHINKANSENAPP\obj\Debug\SHINKANSENAPP.csproj.CopyComplete
+C:\Users\Nicole Pecho\Documents\GitHub\forpblvid\SHINKANSENAPP\SHINKANSENAPP\obj\Debug\SHINKANSENAPP.exe
+C:\Users\Nicole Pecho\Documents\GitHub\forpblvid\SHINKANSENAPP\SHINKANSENAPP\obj\Debug\SHINKANSENAPP.pdb
+C:\Users\User\Desktop\forpblvid\SHINKANSENAPP\SHINKANSENAPP\bin\Debug\SHINKANSENAPP.exe.config
+C:\Users\User\Desktop\forpblvid\SHINKANSENAPP\SHINKANSENAPP\bin\Debug\SHINKANSENAPP.exe
+C:\Users\User\Desktop\forpblvid\SHINKANSENAPP\SHINKANSENAPP\bin\Debug\SHINKANSENAPP.pdb
+C:\Users\User\Desktop\forpblvid\SHINKANSENAPP\SHINKANSENAPP\obj\Debug\SHINKANSENAPP.csprojAssemblyReference.cache
+C:\Users\User\Desktop\forpblvid\SHINKANSENAPP\SHINKANSENAPP\obj\Debug\SHINKANSENAPP.About.resources
+C:\Users\User\Desktop\forpblvid\SHINKANSENAPP\SHINKANSENAPP\obj\Debug\SHINKANSENAPP.Account_Verification.resources
+C:\Users\User\Desktop\forpblvid\SHINKANSENAPP\SHINKANSENAPP\obj\Debug\SHINKANSENAPP.Dashboard.resources
+C:\Users\User\Desktop\forpblvid\SHINKANSENAPP\SHINKANSENAPP\obj\Debug\SHINKANSENAPP.GenInfo.resources
+C:\Users\User\Desktop\forpblvid\SHINKANSENAPP\SHINKANSENAPP\obj\Debug\SHINKANSENAPP.Homescreen.resources
+C:\Users\User\Desktop\forpblvid\SHINKANSENAPP\SHINKANSENAPP\obj\Debug\SHINKANSENAPP.Infographics.resources
+C:\Users\User\Desktop\forpblvid\SHINKANSENAPP\SHINKANSENAPP\obj\Debug\SHINKANSENAPP.Inquiry.resources
+C:\Users\User\Desktop\forpblvid\SHINKANSENAPP\SHINKANSENAPP\obj\Debug\SHINKANSENAPP.Precautions.resources
+C:\Users\User\Desktop\forpblvid\SHINKANSENAPP\SHINKANSENAPP\obj\Debug\SHINKANSENAPP.Properties.Resources.resources
+C:\Users\User\Desktop\forpblvid\SHINKANSENAPP\SHINKANSENAPP\obj\Debug\SHINKANSENAPP.Reports.resources
+C:\Users\User\Desktop\forpblvid\SHINKANSENAPP\SHINKANSENAPP\obj\Debug\SHINKANSENAPP.Signing.resources
+C:\Users\User\Desktop\forpblvid\SHINKANSENAPP\SHINKANSENAPP\obj\Debug\SHINKANSENAPP.Splash_Screen.resources
+C:\Users\User\Desktop\forpblvid\SHINKANSENAPP\SHINKANSENAPP\obj\Debug\SHINKANSENAPP.Symptoms.resources
+C:\Users\User\Desktop\forpblvid\SHINKANSENAPP\SHINKANSENAPP\obj\Debug\SHINKANSENAPP.csproj.GenerateResource.cache
+C:\Users\User\Desktop\forpblvid\SHINKANSENAPP\SHINKANSENAPP\obj\Debug\SHINKANSENAPP.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\forpblvid\SHINKANSENAPP\SHINKANSENAPP\obj\Debug\SHINKANSENAPP.csproj.CopyComplete
+C:\Users\User\Desktop\forpblvid\SHINKANSENAPP\SHINKANSENAPP\obj\Debug\SHINKANSENAPP.exe
+C:\Users\User\Desktop\forpblvid\SHINKANSENAPP\SHINKANSENAPP\obj\Debug\SHINKANSENAPP.pdb
